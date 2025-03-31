@@ -4,6 +4,7 @@ __pycache__/
 *.pyc
 .vscode
 .idea
+.vs
 
 db.sqlite3
 media/
